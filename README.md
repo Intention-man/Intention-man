@@ -4,4 +4,4 @@
 |:-:|:-:|
 | ![Readme Card](https://github-readme-stats.vercel.app/api?username=Intention-man) | ![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=Intention-man\&repo=vk-selection-task)|
 |:-:|:-:|
-| ![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=Intention-man\&repo=new_aitip_site) |
+| ![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=Intention-man\&repo=new_aitip_site) |  ![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=Intention-man\&repo=selectel-hack-be-fork)
