@@ -45,4 +45,4 @@ Software Engineering & Computer Systems
 Open to discussing distributed systems, data platforms, and AI agents.
 
 - **Telegram**: [@Intention_man](https://t.me/Intention_man)
-- **LinkedIn**: [link](www.linkedin.com/in/mikhail-agei-108186340)
+- **LinkedIn**: [link](https://www.linkedin.com/in/mikhail-agei-108186340)
