@@ -3,8 +3,7 @@
 ### Backend & Data Engineer | Distributed Systems | JVM
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Intention_man)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhail-agei-108186340/)
 
 ---
 
@@ -25,7 +24,7 @@ I'm a **Backend/Data Engineer at Yandex**, working on the **SPYT** team — the 
 
 **Languages:** ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Data & Distributed Systems:** ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![YTsaurus](https://img.shields.io/badge/YTsaurus-1E88E5?style=for-the-badge) ![ETL](https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge)
+**Data & Distributed Systems:** ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Spark Streaming](https://img.shields.io/badge/Spark_Streaming-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![YTsaurus](https://img.shields.io/badge/YTsaurus-1E88E5?style=for-the-badge) ![ETL](https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge)
 
 **Backend:** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -45,4 +44,4 @@ Software Engineering & Computer Systems
 Open to discussing distributed systems, data platforms, and AI agents.
 
 - **Telegram**: [@Intention_man](https://t.me/Intention_man)
-- **LinkedIn**: [link](https://www.linkedin.com/in/mikhail-agei-108186340)
+- **LinkedIn**: [mikhail-agei](https://www.linkedin.com/in/mikhail-agei-108186340/)
