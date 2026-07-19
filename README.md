@@ -1,6 +1,48 @@
-# Intention_man
+# Hi there 👋, I'm Mikhail Agei
 
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Intention-man&layout=compact) | ![LeetCode Stats](https://leetcard.jacoblin.cool/Intention_man?theme=nord&font=Archivo)|
-|:-:|:-:|
-| ![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=Intention-man\&repo=vk-selection-task)| ![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=Intention-man\&repo=selectel-hack-be-fork) |
-| ![Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=Intention-man\&repo=new_aitip_site) | ![Readme Card](https://github-readme-stats.vercel.app/api?username=Intention-man) |
+### Backend & Data Engineer | Distributed Systems | JVM
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Intention_man)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+### 👨‍💻 About Me
+
+I'm a **Backend/Data Engineer at Yandex**, working on the **SPYT** team — the integration layer between **Apache Spark** and **YTsaurus**, a distributed storage and compute platform for large-scale data.
+
+- 🔭 I build and optimize the adapter that lets Spark run on top of a distributed columnar storage system — read/write performance, streaming, and ETL.
+- ⚡ Implemented **transactional (exactly-once) streaming** between Spark and YTsaurus: designed and compared several approaches, each with its own consistency/performance trade-offs.
+- 🤖 Building an **AI agent harness** (skills, sub-agents, context design) that helps our users and developers work with a complex data platform faster.
+- 🛠️ Contributing to [YTsaurus](https://ytsaurus.tech) — an open-source distributed data platform.
+- 👨‍🏫 Mentoring an intern and leading a student project as part of Yandex Summer School.
+- 📚 Currently going deep on distributed systems design — *Designing Data-Intensive Applications* is my current read.
+
+---
+
+### 🚀 Tech Stack
+
+**Languages:** ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Data & Distributed Systems:** ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![YTsaurus](https://img.shields.io/badge/YTsaurus-1E88E5?style=for-the-badge) ![ETL](https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge)
+
+**Backend:** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**AI Engineering:** ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+
+---
+
+### 🎓 Education
+
+**ITMO University**, St. Petersburg (2022 – 2026)
+Software Engineering & Computer Systems
+
+---
+
+### 📫 Let's Connect
+
+Open to discussing distributed systems, data platforms, and AI agents.
+
+- **Telegram**: [@Intention_man](https://t.me/Intention_man)
+- **LinkedIn**: [link](https://linkedin.com/in/YOUR_LINK)
