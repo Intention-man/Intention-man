@@ -15,7 +15,7 @@ I'm a **Backend/Data Engineer at Yandex**, working on the **SPYT** team — the 
 - 🔭 I build and optimize the adapter that lets Spark run on top of a distributed columnar storage system — read/write performance, streaming, and ETL.
 - ⚡ Implemented **transactional (exactly-once) streaming** between Spark and YTsaurus: designed and compared several approaches, each with its own consistency/performance trade-offs.
 - 🤖 Building an **AI agent harness** (skills, sub-agents, context design) that helps our users and developers work with a complex data platform faster.
-- 🛠️ Contributing to [YTsaurus](https://ytsaurus.tech) — an open-source distributed data platform.
+- 🛠️ Working on [YTsaurus](https://github.com/ytsaurus/ytsaurus) — an open-source distributed data platform ([ytsaurus.tech](https://ytsaurus.tech))
 - 👨‍🏫 Mentoring an intern and leading a student project as part of Yandex Summer School.
 - 📚 Currently going deep on distributed systems design — *Designing Data-Intensive Applications* is my current read.
 
